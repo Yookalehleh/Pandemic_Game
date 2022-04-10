@@ -1,2 +1,7 @@
 # Pandemic_Game
-Fully functional game in Lua using the LÖVE framework. Last update: December 2020.
+
+Pandemic is a fully functional game in Lua using the LÖVE framework.
+
+This was made as a final project for CS50: Introduction to Computer Science.
+
+Last update: December 2020.
